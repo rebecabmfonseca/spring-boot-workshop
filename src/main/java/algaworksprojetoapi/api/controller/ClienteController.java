@@ -22,7 +22,7 @@ public class ClienteController {
 		Cliente cliente2 = new Cliente();
 		
 		cliente2.setId(2L);
-		cliente2.setNome("João Paulo");
+		cliente2.setNome("lala");
 		cliente2.setEmail("joaopaulobispo@gmail.com");
 		cliente2.setTelefone("21 999999999");
 		
